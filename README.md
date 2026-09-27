@@ -40,6 +40,7 @@ General-purpose frameworks for building and running LLM evaluations.
 - [Evidently](https://github.com/evidentlyai/evidently) - Evaluation and monitoring for ML and LLM systems with 100+ built-in checks.
 - [UpTrain](https://github.com/uptrain-ai/uptrain) - Open-source toolkit to evaluate and improve LLM applications with pre-built metrics.
 - [Weave](https://github.com/wandb/weave) - Weights and Biases toolkit for tracking, evaluating, and iterating on LLM apps.
+- [MLflow](https://github.com/mlflow/mlflow) - Open-source AI engineering platform with GenAI evaluation built into its broader tracking and deployment lifecycle.
 
 ## LLM-as-a-Judge
 
@@ -89,6 +90,8 @@ Production monitoring, trace capture, and online evaluation platforms.
 - [Langfuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform for tracing, evals, prompt management, and metrics.
 - [TruLens](https://github.com/truera/trulens) - Instrumentation and feedback-function evaluation for LLM apps, strong on the RAG triad.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry-based observability for LLM applications by Traceloop.
+- [Opik](https://github.com/comet-ml/opik) - Comet's platform for tracing, automated evaluation, and production dashboards across LLM, RAG, and agentic workflows.
+- [Helicone](https://github.com/Helicone/helicone) - One-line-of-code LLM observability platform for monitoring, evaluating, and experimenting in production.
 
 ## Benchmarks and Datasets
 
