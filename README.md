@@ -81,6 +81,7 @@ Adversarial testing, jailbreak resistance, and harm measurement.
 - [HarmBench](https://github.com/centerforaisafety/HarmBench) - Standardized evaluation framework for automated red-teaming and refusal.
 - [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) - Open benchmark and leaderboard for tracking jailbreak attacks and defenses.
 - [PromptBench](https://github.com/microsoft/promptbench) - Microsoft's unified library for evaluating LLM robustness to adversarial prompts.
+- [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's open-source toolkit for adding programmable runtime guardrails to LLM-based conversational systems.
 
 ## Observability and Tracing
 
@@ -92,6 +93,8 @@ Production monitoring, trace capture, and online evaluation platforms.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry-based observability for LLM applications by Traceloop.
 - [Opik](https://github.com/comet-ml/opik) - Comet's platform for tracing, automated evaluation, and production dashboards across LLM, RAG, and agentic workflows.
 - [Helicone](https://github.com/Helicone/helicone) - One-line-of-code LLM observability platform for monitoring, evaluating, and experimenting in production.
+- [LangSmith](https://github.com/langchain-ai/langsmith-sdk) - LangChain's platform for tracing, evaluating, and monitoring LLM applications in development and production.
+- [Braintrust](https://www.braintrust.dev) - Eval and observability platform combining dataset-driven scoring with production trace monitoring.
 
 ## Benchmarks and Datasets
 

@@ -10,16 +10,16 @@ Tools, benchmarks, datasets, papers, and guides specifically for **evaluating** 
 
 An entry earns its place if it is:
 
-- **Real and maintained** — working link, and for tools, meaningful recent activity or established status.
-- **Notable** — widely used, from a credible source, or genuinely novel. Not every repo that mentions "eval" qualifies.
-- **Accurately described** — the one-line summary must match what the resource actually does.
+- **Real and maintained**, working link, and for tools, meaningful recent activity or established status.
+- **Notable**, widely used, from a credible source, or genuinely novel. Not every repo that mentions "eval" qualifies.
+- **Accurately described**, the one-line summary must match what the resource actually does.
 
 ## Format
 
 Each entry is a single bullet:
 
 ```
-- [Name](https://link) — One factual sentence, under ~25 words, no marketing language.
+- [Name](https://link) - One factual sentence, under ~25 words, no marketing language.
 ```
 
 - Put the item in the most specific section that fits.
@@ -33,4 +33,4 @@ Each entry is a single bullet:
 2. Add your entry.
 3. Open a pull request describing what you added and why it meets the bar.
 
-No self-promotion of low-quality or unmaintained projects, please — it lowers the value of the list for everyone.
+No self-promotion of low-quality or unmaintained projects, please, it lowers the value of the list for everyone.
