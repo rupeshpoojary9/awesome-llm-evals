@@ -148,6 +148,7 @@ Multimodal.
 - [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217) - Es et al., 2023. Reference-free RAG metrics.
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) - Jimenez et al., 2023.
 - [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) - Chang et al., 2023. Broad map of what, where, and how to evaluate.
+- [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265) - ICLR 2026 paper estimating performance and sampling uncertainty from repeated binary or graded outcomes with a Dirichlet posterior.
 
 ## Guides and Articles
 
